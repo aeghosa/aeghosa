@@ -12,7 +12,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="file:///Users/eghosaedobor11gmail.com/Desktop/E%20Eghosa%20Dev%20CV.pdf"><img width="32px" alt="CV" title="CV" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://www.cleanpng.com/png-github-computer-icons-icon-design-github-672264/"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="<p align="center">
+  <a href="https://www.linkedin.com/in/egh-edobor-62bbb0231/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="file:///Users/eghosaedobor11gmail.com/Desktop/E%20Eghosa%20Dev%20CV.pdf"><img width="32px" alt="CV" title="CV" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src=https://spemer.com/img/works/jekyll/github.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
