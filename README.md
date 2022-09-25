@@ -6,20 +6,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Recent%20Makers%20Academy%20Grad;6%2B%20months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/egh-edobor-62bbb0231/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="file:///Users/eghosaedobor11gmail.com/Desktop/E%20Eghosa%20Dev%20CV.pdf"><img width="32px" alt="CV" title="CV" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="<p align="center">
-  <a href="https://www.linkedin.com/in/egh-edobor-62bbb0231/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="file:///Users/eghosaedobor11gmail.com/Desktop/E%20Eghosa%20Dev%20CV.pdf"><img width="32px" alt="CV" title="CV" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src=https://spemer.com/img/works/jekyll/github.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
