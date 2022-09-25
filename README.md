@@ -43,7 +43,7 @@
         </a>
         <!-- C++ -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Node.js"
-                        src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+                        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
         </a>
         <!-- Arduino -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Arduino"
