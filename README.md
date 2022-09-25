@@ -16,6 +16,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
 <!--
 **aeghosa/aeghosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
