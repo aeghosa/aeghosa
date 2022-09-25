@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="file:///Users/eghosaedobor11gmail.com/Desktop/E%20Eghosa%20Dev%20CV.pdf"><img width="32px" alt="CV" title="CV" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="GitHub"><img width="32px" src="https://spemer.com/img/works/jekyll/github.png"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="GitHub"><img width="40px" src="https://spemer.com/img/works/jekyll/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
