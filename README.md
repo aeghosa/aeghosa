@@ -19,6 +19,9 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
 
+
+
+<p align="center">
  <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
@@ -46,6 +49,7 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>
+  </p>
 
 <!--
 **aeghosa/aeghosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
