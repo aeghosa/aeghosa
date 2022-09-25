@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/egh-edobor-62bbb0231/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="CV" title="CV" src="https://www.pngegg.com/en/png-zszqx"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
