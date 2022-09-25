@@ -35,7 +35,7 @@
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
         </a>
         <!-- Python -->
         <a href="https://github.com/aeghosa?tab=repositoriess" target="_blank"><img alt="Ruby"
