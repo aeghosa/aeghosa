@@ -39,7 +39,7 @@
         </a>
         <!-- Python -->
         <a href="https://github.com/aeghosa?tab=repositoriess" target="_blank"><img alt="Ruby"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)">
+                        src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
         </a>
         <!-- C++ -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="C++"
