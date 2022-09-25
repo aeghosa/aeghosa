@@ -27,7 +27,7 @@
         </a>
         <!-- HTML -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+                        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         </a>
         <!-- CSS  -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="CSS"
