@@ -31,7 +31,7 @@
         </a>
         <!-- CSS  -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+                        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="JavaScript"
