@@ -37,17 +37,17 @@
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
         </a>
-        <!-- Python -->
+        <!-- Ruby -->
         <a href="https://github.com/aeghosa?tab=repositoriess" target="_blank"><img alt="Ruby"
                         src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
         </a>
-        <!-- C++ -->
+        <!-- Node -->
         <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Node.js"
                         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
         </a>
-        <!-- Arduino -->
-        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- SQL -->
+        <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="SQL"
+                        src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
         </a>
   </p>
 
