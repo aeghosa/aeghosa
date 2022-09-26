@@ -23,8 +23,8 @@
 
 ### 💻 Programming and markup languages
 
+
 <p align="center">
-  
  <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=codepen&logoColor=white">
         </a>
@@ -55,6 +55,7 @@
   </p>
   
   ### 🧰 Frameworks and libraries
+  
 
 <p align="center">
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
