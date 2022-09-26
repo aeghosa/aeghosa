@@ -52,6 +52,15 @@
                         src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
         </a>
   </p>
+  
+  ### 🧰 Frameworks and libraries
+
+<p align="center">
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+</p>
 
 <!--
 **aeghosa/aeghosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
