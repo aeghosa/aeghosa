@@ -81,7 +81,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub_Desktop-2088FF?style=for-the-badge&logo=github-Desktop&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg">
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
   <a href="#"><img alt="Studio Cide" src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </p>
