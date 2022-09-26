@@ -19,7 +19,9 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
 
+## 🛠️ My favorite tools
 
+### 💻 Programming and markup languages
 
 <p align="center">
  <a href="https://github.com/aeghosa?tab=repositories" target="_blank"><img alt="Code"
